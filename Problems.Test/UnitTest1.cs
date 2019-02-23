@@ -35,7 +35,7 @@ namespace Tests
         public void Test3()
         {
             Program sp=new Program();
-           string exp="25,5:  what day ... is it??.  ";
+           string exp="23,5:  what day ... is it??.  ";
            
         string inp =sp.Prefix("  what day ... is it??.  ");
         Assert.AreEqual(inp,exp);
