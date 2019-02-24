@@ -1,9 +1,10 @@
 language: csharp
 dotnet: 2.2
 script:
-  dotnet test Problems.Test
+  dotnet test Probems.Test
 matrix:
   include:
     - dist: xenial
     - dist: trusty
-    
+    - os: osx
+  
