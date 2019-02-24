@@ -1,0 +1,17 @@
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.csprojAssemblyReference.cache
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.csproj.CoreCompileInputs.cache
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.AssemblyInfoInputs.cache
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.AssemblyInfo.cs
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.Test.deps.json
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.Test.runtimeconfig.json
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.Test.runtimeconfig.dev.json
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.Test.dll
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.Test.pdb
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.dll
+J:\desktop\CS3\MyStuff\Problems.Test\bin\Debug\netcoreapp2.2\Problems.pdb
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.csproj.CopyComplete
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.dll
+J:\desktop\CS3\MyStuff\Problems.Test\obj\Debug\netcoreapp2.2\Problems.Test.pdb
