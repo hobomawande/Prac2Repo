@@ -7,4 +7,3 @@ matrix:
     - dist: xenial
     - dist: trusty
     - os: osx
-  
